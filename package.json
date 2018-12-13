@@ -4,8 +4,8 @@
   "description": "Js lib to drop snowflakes",
   "main": "snow.js",
   "scripts": {
-    "prebuild": "rm -r dist",
-    "build": "./node_modules/.bin/babel snow.js --out-dir dist"
+    "prebuild": "rm -f dist/snow.js",
+    "build": "npx babel snow.source.js --out-file dist/snow.js"
   },
   "author": "Diogo Gonvcalves",
   "license": "ISC",

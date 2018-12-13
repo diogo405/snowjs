@@ -26,11 +26,11 @@ The Snow class accepts a json object as a param so you can set your options. Her
 
 ```
 this.default = {
-	quantity: 5,	// Quantity of snowflake to be dropped every cycle
-	minSize: 2,		// Minimum size of the snowflake (px)
-	maxSize: 4,     // Maximum size of the snowflake (px)
-	color: 'white',	// Snowflake color
-	speed: '4s',	// Transition time for the snowflake fall
+	quantity: 5,     // Quantity of snowflake to be dropped every cycle
+	minSize: 2,      // Minimum size of the snowflake (px)
+	maxSize: 4,      // Maximum size of the snowflake (px)
+	color: 'white',  // Snowflake color
+	speed: '4s',     // Transition time for the snowflake fall
 };
 ```
 

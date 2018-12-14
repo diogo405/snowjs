@@ -2,6 +2,8 @@
 
 A JS lib (2kb) to make snow ❄️
 
+![Snow JS dog](https://github.com/diogo405/snowjs/blob/master/dog.png?raw=true)
+
 ## How to use or make it snow then?
 
 All you need to do is put the script in your page (that one from dist folder) and call the fall method:

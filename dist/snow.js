@@ -1,5 +1,11 @@
 "use strict";
 
+/**
+ * Snow JS
+ * Javascript lib to make snow :)
+ * 
+ * Author: Diogo Goncalves
+ */
 class Snow {
   constructor(options) {
     this.container = 'body';

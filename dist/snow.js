@@ -3,6 +3,7 @@
 /**
  * Snow JS
  * Javascript lib to make snow :)
+ * https://github.com/diogo405/snowjs
  * 
  * Author: Diogo Goncalves
  */
